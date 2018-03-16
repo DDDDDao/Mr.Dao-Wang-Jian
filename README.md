@@ -8,3 +8,6 @@
   cout<<"Hello, Mr.Wang!"<<endl;
   return 0;
   }
+
+Hi, I'm trying to use Github today! 
+Just a test.
